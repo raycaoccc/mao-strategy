@@ -17,6 +17,16 @@ Core concepts:
 - **孤立顽固势力 (Isolate the diehards)**: Do not waste resources trying to convert hardened opponents. Isolate them by winning everyone else.
 - **又团结又斗争 (Unity and struggle)**: Alliances are not unconditional. Maintain principled positions while finding practical common ground.
 
+**Key Quotes (引用语录)**:
+
+> "谁是我们的敌人？谁是我们的朋友？这个问题是革命的首要问题。" ——《中国社会各阶级的分析》
+
+> "团结一切可以团结的力量。" ——《论十大关系》
+
+> "利用矛盾，争取多数，反对少数，各个击破。" ——《目前形势和我们的任务》
+
+> "星星之火，可以燎原。" ——《星星之火，可以燎原》
+
 **Key insight**: The initiative does not require unanimous agreement. It requires enough allies to make the opposition irrelevant.
 
 ### When to Apply

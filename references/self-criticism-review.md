@@ -16,6 +16,16 @@ Core concepts:
 - **实事求是 (Seek truth from facts)**: Criticism must be based on observed facts, not impressions, rumors, or personality judgments.
 - **对事不对人 (Address the matter, not the person)**: Critique decisions and actions, not character or intentions.
 
+**Key Quotes (引用语录)**:
+
+> "有无认真的自我批评，也是我们和其他政党互相区别的显著的标志之一。" ——《论联合政府》
+
+> "惩前毖后，治病救人。" ——《整顿党的作风》
+
+> "对以前的错误一定要揭发，不讲情面，要以科学的态度来分析批判过去的坏东西，以便使后来的工作慎重些，做得好些。这就是'惩前毖后'的意思。但是我们揭发错误、批判缺点的目的，好像医生治病一样，完全是为了救人。" ——《整顿党的作风》
+
+> "房子是应该经常打扫的，不打扫就会积满了灰尘；脸是应该经常洗的，不洗也就会灰尘满面。" ——《论联合政府》
+
 **Key insight**: Organizations that lack a structured mechanism for honest self-assessment repeat mistakes indefinitely. Self-criticism is the immune system.
 
 ---

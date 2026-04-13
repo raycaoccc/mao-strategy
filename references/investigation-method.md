@@ -18,6 +18,18 @@ Core concepts:
 - **详细调查 (Detailed investigation)**: Superficial surveys produce superficial conclusions. Go deep on the critical areas.
 - **有目的的调查 (Purposeful investigation)**: Investigation must have clear objectives and direction. Do not investigate everything — focus on what will change the decision. Purposefulness distinguishes strategic investigation from aimless data gathering.
 
+**Key Quotes (引用语录)**:
+
+> "没有调查，没有发言权。" ——《反对本本主义》
+
+> "调查就像'十月怀胎'，解决问题就像'一朝分娩'。调查就是解决问题。" ——《反对本本主义》
+
+> "离开实际调查就要产生唯心的阶级估量和唯心的工作指导，那末，其结果，不是机会主义，便是盲动主义。" ——《反对本本主义》
+
+> "你对于某个问题没有调查，就停止你对于某个问题的发言权。" ——《反对本本主义》
+
+> "中国革命斗争的胜利要靠中国同志了解中国情况。" ——《反对本本主义》
+
 **Key insight**: Most bad decisions result from acting on insufficient or secondhand information. The discipline of purposeful, firsthand investigation prevents this.
 
 ---

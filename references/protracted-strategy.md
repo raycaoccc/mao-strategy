@@ -21,6 +21,18 @@ Core concepts:
 
 - **集中优势兵力 (Concentrate superior force)**: Even when globally weaker, create local superiority at the point of engagement. Win a series of small victories rather than gambling on one large one.
 
+**Key Quotes (引用语录)**:
+
+> "战略上藐视敌人，战术上重视敌人。" ——《在中国共产党全国宣传工作会议上的讲话》
+
+> "在战略的持久战之中，采取战役和战斗的速决战。" ——《论持久战》
+
+> "集中优势兵力，各个歼灭敌人。" ——《集中优势兵力，各个歼灭敌人》
+
+> "敌进我退，敌驻我扰，敌疲我打，敌退我追。" ——《中国的红色政权为什么能够存在？》
+
+> "以时间换空间。" ——《论持久战》
+
 **Key insight**: Impatience is the primary failure mode in protracted contests. Understanding which phase the contest is in prevents both premature action and unnecessary passivity.
 
 ---

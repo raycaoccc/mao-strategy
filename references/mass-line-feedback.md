@@ -18,6 +18,14 @@ Core concepts:
 - **领导与群众相结合 (Combine leadership with the masses)**: Neither top-down directives nor bottom-up anarchy alone produces good outcomes. The synthesis of both is required.
 - **民主性与参与性 (Democratic participation)**: The mass line is inherently democratic — it requires genuine, not performative, participation. The people closest to the problem must have real voice in shaping the solution, not merely be consulted for appearances.
 
+**Key Quotes (引用语录)**:
+
+> "从群众中集中起来又到群众中坚持下去，以形成正确的领导意见，这是基本的领导方法。" ——《关于领导方法的若干问题》
+
+> "将群众的意见（分散的无系统的意见）集中起来（经过研究，化为集中的系统的意见），又到群众中去作宣传解释，化为群众的意见，使群众坚持下去。" ——《关于领导方法的若干问题》
+
+> "凡属正确的领导，必须是从群众中来，到群众中去。" ——《关于领导方法的若干问题》
+
 **Key insight**: The best plans emerge not from a single brilliant mind, but from the disciplined cycle of genuinely democratic listening, rigorous synthesizing, and iterative testing with the people who will execute and be affected by the plan.
 
 ---

@@ -86,6 +86,8 @@ For each framework applied, produce:
 - How it applies to this specific situation
 - What action it implies
 
+**Citation rule**: Before stating each key conclusion, cite the most relevant original quote from《毛泽东选集》that supports it. Format: `> "原文" ——《篇名》`. This grounds every conclusion in the source material and makes the framework's unique perspective visible.
+
 When multiple frameworks are applied, synthesize their recommendations:
 - If frameworks agree, the recommendation is strong — note the convergence.
 - If frameworks conflict (e.g., Investigation Method suggests waiting while Protracted Strategy suggests acting), identify which framework addresses the principal contradiction more directly and weight its recommendation accordingly.

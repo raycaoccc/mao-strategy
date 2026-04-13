@@ -17,6 +17,16 @@ Core concepts:
 - **矛盾的同一性与斗争性 (Unity and struggle of opposites)**: The two aspects of every contradiction are both opposed (struggle) and interdependent (unity). They coexist within the same entity and can transform into each other under certain conditions. Understanding this duality prevents treating contradictions as simple either/or choices.
 - **矛盾的转化 (Transformation of contradictions)**: Principal and secondary can swap positions as conditions change. What was secondary yesterday may become principal today. The dominant aspect within a contradiction can also flip — this is how qualitative change occurs.
 
+**Key Quotes (引用语录)**:
+
+> "在复杂的事物的发展过程中，有许多的矛盾存在，其中必有一种是主要的矛盾，由于它的存在和发展，规定或影响着其他矛盾的存在和发展。" ——《矛盾论》
+
+> "捉住了这个主要矛盾，一切问题就迎刃而解了。" ——《矛盾论》
+
+> "不同质的矛盾，只有用不同质的方法才能解决。" ——《矛盾论》
+
+> "对于矛盾的各种不平衡情况的研究，对于主要的矛盾和非主要的矛盾、主要的矛盾方面和非主要的矛盾方面的研究，成为革命政党正确地决定其政治上和军事上的战略战术方针的重要方法之一。" ——《矛盾论》
+
 **Key insight**: Seize the principal contradiction to focus effort, but remember that contradictions are dynamic and interconnected — resolving the principal contradiction reshapes the entire field, it does not mechanically eliminate all problems.
 
 ---

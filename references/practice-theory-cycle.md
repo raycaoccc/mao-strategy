@@ -17,6 +17,16 @@ Core concepts:
 - **认识的反复 (Repetition of knowledge)**: Understanding is not achieved in one pass. It requires multiple cycles, each correcting and deepening the previous one. This is not simple repetition — each cycle operates at a higher level than the last.
 - **实践的直接现实性 (Direct reality of practice)**: Practice is the only activity that directly changes objective reality. Theory describes and predicts; practice transforms. This gives practice its unique authority as the criterion of truth — it is not just a test, it is the only test that actually contacts reality.
 
+**Key Quotes (引用语录)**:
+
+> "实践、认识、再实践、再认识，这种形式，循环往复以至无穷，而实践和认识之每一循环的内容，都比较地进到了高一级的程度。" ——《实践论》
+
+> "判定认识或理论之是否真理，不是依主观上觉得如何而定，而是依客观上社会实践的结果如何而定。真理的标准只能是社会的实践。" ——《实践论》
+
+> "通过实践而发现真理，又通过实践而证实真理和发展真理。" ——《实践论》
+
+> "感觉到了的东西，我们不能立刻理解它，只有理解了的东西才更深刻地感觉它。" ——《实践论》
+
 **Key insight**: Neither pure theory nor blind practice alone produces reliable knowledge. Only the disciplined alternation between them does. And when they conflict, practice — as the direct contact with reality — has the final word.
 
 ---
